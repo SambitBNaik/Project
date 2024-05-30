@@ -1,0 +1,8 @@
+.w-[160px] {
+  width: 160px; /* Ensure fixed width */
+  height: 30vh;
+  background-size: cover; /* Maintain aspect ratio and cover entire container */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent repeating of background */
+  transform: scale(0.95); /* Zoom out the image slightly */
+}
